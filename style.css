@@ -1,5 +1,5 @@
 body{
-    background-color:blue;
+    background-color:green;
 
   }
   .container{
@@ -64,4 +64,8 @@ body{
   }
   #div1 img{
     border-radius: 50%;
+  }
+  .social-media
+  {
+    background-color: white;
   }
