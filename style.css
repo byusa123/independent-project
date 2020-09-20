@@ -88,3 +88,6 @@ body{
   #div1{
     text-decoration-line: underline;
   }
+  h1{
+    text-align: center;
+  }
